@@ -1,0 +1,82 @@
+C:\Users\xxx\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\xxx\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\xxx\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\xxx\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+C:\Users\xxx\source\repos\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\xxx\source\repos\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+C:\Users\xxx\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\xxx\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\xxx\source\repos\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\xxx\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\xxx\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\xxx\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\xxx\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\xxx\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\xxx\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
+C:\Users\Maciej\Desktop\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\Maciej\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\Maciej\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
+C:\Users\Maciej\Desktop\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\Maciej\Desktop\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\Maciej\Desktop\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\Maciej\Desktop\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+C:\Users\Maciej\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\Maciej\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\Maciej\Desktop\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\Maciej\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\Maciej\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\Maciej\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.Cache
+C:\Users\Maciej\Desktop\WpfApp3\WpfApp3\obj\Debug\Window1.baml
+C:\Users\Maciej\Desktop\WpfApp3\WpfApp3\obj\Debug\Window1.g.cs
+C:\Users\Maciej\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csprojResolveAssemblyReference.cache
+C:\Users\Maciej\Desktop\WpfApp3\WpfApp3\obj\Debug\Window2.baml
+C:\Users\Maciej\Desktop\WpfApp3\WpfApp3\obj\Debug\Window2.g.cs
+C:\Users\xxx\Desktop\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\xxx\Desktop\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\xxx\Desktop\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\xxx\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+C:\Users\xxx\Desktop\WpfApp3\WpfApp3\obj\Debug\Window2.baml
+C:\Users\xxx\Desktop\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\xxx\Desktop\WpfApp3\WpfApp3\obj\Debug\Window2.g.cs
+C:\Users\xxx\Desktop\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+C:\Users\xxx\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\xxx\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\xxx\Desktop\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\xxx\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\xxx\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\xxx\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\xxx\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\xxx\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\xxx\Desktop\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
+C:\Users\Maciej\Desktop\na 5 bez nazwy pliku\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\Maciej\Desktop\na 5 bez nazwy pliku\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\Maciej\Desktop\na 5 bez nazwy pliku\WpfApp3\obj\Debug\WpfApp3.pdb
+C:\Users\Maciej\Desktop\na 5 bez nazwy pliku\WpfApp3\obj\Debug\Window2.baml
+C:\Users\Maciej\Desktop\na 5 bez nazwy pliku\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\Maciej\Desktop\na 5 bez nazwy pliku\WpfApp3\obj\Debug\Window2.g.cs
+C:\Users\Maciej\Desktop\na 5 bez nazwy pliku\WpfApp3\obj\Debug\App.g.cs
+C:\Users\Maciej\Desktop\na 5 bez nazwy pliku\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\Maciej\Desktop\na 5 bez nazwy pliku\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\Maciej\Desktop\na 5 bez nazwy pliku\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\Maciej\Desktop\na 5 bez nazwy pliku\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\Maciej\Desktop\na 5 bez nazwy pliku\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\Maciej\Desktop\na 5 bez nazwy pliku\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\Maciej\Desktop\na 5 bez nazwy pliku\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\Maciej\Desktop\na 5 bez nazwy pliku\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.Cache
+C:\Users\Piotr\Desktop\projekt\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\Piotr\Desktop\projekt\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\Piotr\Desktop\projekt\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\Piotr\Desktop\projekt\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\projekt\WpfApp3\obj\Debug\Window2.baml
+C:\Users\Piotr\Desktop\projekt\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\Desktop\projekt\WpfApp3\obj\Debug\Window2.g.cs
+C:\Users\Piotr\Desktop\projekt\WpfApp3\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\projekt\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\Piotr\Desktop\projekt\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\Piotr\Desktop\projekt\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\Piotr\Desktop\projekt\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\Piotr\Desktop\projekt\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\Piotr\Desktop\projekt\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\projekt\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\projekt\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\Piotr\Desktop\projekt\WpfApp3\obj\Debug\WpfApp3.pdb
